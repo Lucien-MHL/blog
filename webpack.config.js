@@ -8,7 +8,7 @@ const config = {
   entry: './src/index.jsx',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: 'https://lucien-mhl.github.io/blog'
+    publicPath: 'https://lucien-mhl.github.io/blog/dist'
   },
   devServer: {
     open: true,
